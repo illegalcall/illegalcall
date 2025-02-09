@@ -18,6 +18,9 @@ I'm a full-stack developer specializing in building web applications with **Reac
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=illegalcall&show_icons=true)](https://github.com/illegalcall)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=illegalcall&show_icons=true)](https://github.com/illegalcall)
+
+
 <!--
 ## My Projects
 - [Project A](https://github.com/devAlice/projectA) - A web app for...
