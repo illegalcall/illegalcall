@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **illegalcall/illegalcall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+# Hi, I'm Dhruv 👋
+
+I'm a full-stack developer specializing in building web applications with **React** and **Node.js**.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=devAlice&show_icons=true)](https://github.com/devAlice)
+
+<!--
+## My Projects
+- [Project A](https://github.com/devAlice/projectA) - A web app for...
+- [Project B](https://github.com/devAlice/projectB) - A mobile-friendly tool for...
 -->
