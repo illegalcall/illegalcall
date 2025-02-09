@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 I'm a full-stack developer specializing in building web applications with **React** and **Node.js**.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=illegalcall&show_icons=true)](https://github.com/illegalcall)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illegalcall&size_weight=0.5&count_weight=0.5)
 
 
 <!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=illegalcall&show_icons=true)](https://github.com/illegalcall)
 ## My Projects
 - [Project A](https://github.com/devAlice/projectA) - A web app for...
 - [Project B](https://github.com/devAlice/projectB) - A mobile-friendly tool for...
