@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dhruv! 👋</h1>
-<h3 align="center">Fullstack Developer | React & Next.js Fan</h3>
+<h3 align="center">Fullstack Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
