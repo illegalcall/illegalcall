@@ -2,7 +2,10 @@
 <h3 align="center">Fullstack Developer </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
+<!--   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"> -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBwZHdxMGZ6NDI2Z3Q5cGlqNmNvbnJwbzg3bHd1MnpuN21xNXl2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="200">
+  
+  
 </p>
 
 ---
