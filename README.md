@@ -63,7 +63,7 @@
 
 - **LinkedIn:** [d3v-dhruv](https://www.linkedin.com/in/d3v-dhruv/)
 - **Email:** [d3v.dhruv@gmail.com](mailto:d3v.dhruv@gmail.com)
-
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100">
 </p>
