@@ -35,8 +35,8 @@
 - **Ecosystems:** Cosmos, Ethereum, and Solana – decentralization at its finest.
 
 #### **Other Tools**
-- **Databases:** PostgreSQL, MongoDB, Redis – storing data like a pro.
-- **DevOps:** Docker, Kubernetes, AWS, Linux – making sure everything runs smoothly.
+- **Databases:** PostgreSQL, MongoDB, Redis.
+- **DevOps:** Docker, Kubernetes, AWS, Linux.
 
 ---
 
