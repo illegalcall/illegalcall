@@ -13,7 +13,7 @@
 ### About Me
 
 - 🎓 **Computer Science Graduate** – Turned my love for tech into a career!
-- 💼 **3.5+ years** of experience fighting bugs and building cool stuff.
+- 💼 **4.5+ years** of experience fighting bugs and building cool stuff.
 - 🚀 I build fast, user-friendly web apps with **React** and **Next.js**.
 - 🔗 Also working on blockchain projects, making crypto and smart contracts fun.
 
