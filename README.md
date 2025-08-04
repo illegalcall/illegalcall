@@ -11,9 +11,6 @@
 
 ## Selected Professional Work
 
-### Viper Network — Fullstack Blockchain Developer
-Built the full-stack **Viper Portal** (Go backend, React frontend) to manage **decentralized RPC relay access** and onboarding/management for Chain/Viper nodes on a **DePIN** protocol. Implemented **Google/Web3Auth**, API keys, **geo-optimized/QoS** RPC routing; designed **PostgreSQL/Redis** for usage tracking and node data. Contributed to **Cosmos chain migration** to **Ignite-based** framework.
-
 ### Comdex — Fullstack Blockchain Developer
 *Context:* Comdex is a **Cosmos-SDK L1 with CosmWasm**, hosting apps like **cSwap (AMM)** and **Harbor (CMST stablecoin)**
 *Work (from resume):* Built **Cosmos-ecosystem blockchain solutions**. Implemented **micro-frontend** architecture (React + Module Federation). Backends in **Golang/Python**; **Rust** smart contracts. Wallet integrations (**Keplr/Leap/MetaMask**). Front-end chain access via **CosmJS** and **ethers.js**. Also worked on an **AI-agent quiz betting platform** (FastAPI + Next.js PWA) and a **Telegram mini app** (Justx).
