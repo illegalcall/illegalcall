@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
 <h3 align="center">Full-Stack & Web3 Engineer · Rust/Go/TypeScript · Next.js on AWS/GCP</h3>
-
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140" alt="typing">
 </p>
-
+-->
 ## About
 - 🎓 Computer Science graduate with **4.5+ years** building production systems.
 - 🧱 I design fast, reliable backends and usable frontends.
@@ -14,15 +14,21 @@
 > I ship simple, measurable solutions and optimize once there’s data.
 
 ## Selected Professional Work
-- **Comdex — Web3 Integrations and Tooling**  
-  *Role:* Backend/Rust • *Stack:* Rust, TypeScript, Postgres, Redis, Docker  
-  *Scope:* Indexing pipelines, API services, wallet and on-chain integrations, reliability and monitoring.  
-  *Notes:* Work delivered in private repos. High-level architecture and outcomes available on request.
 
-- **Actalink — Platform Engineering**  
-  *Role:* Full-stack • *Stack:* Go/TypeScript, Next.js, GCP (Cloud Run, Pub/Sub), Postgres  
-  *Scope:* Service design, rate limiting, observability, developer experience.  
-  *Notes:* NDA. Sharing high-level designs only.
+### Viper Network — Fullstack Blockchain Developer
+Built the full-stack **Viper Portal** (Go backend, React frontend) to manage **decentralized RPC relay access** and onboarding/management for Chain/Viper nodes on a **DePIN** protocol. Implemented **Google/Web3Auth**, API keys, **geo-optimized/QoS** RPC routing; designed **PostgreSQL/Redis** for usage tracking and node data. Contributed to **Cosmos chain migration** to **Ignite-based** framework.
+
+### Comdex — Fullstack Blockchain Developer
+*Context:* Comdex is a **Cosmos-SDK L1 with CosmWasm**, hosting apps like **cSwap (AMM)** and **Harbor (CMST stablecoin)**
+*Work (from resume):* Built **Cosmos-ecosystem blockchain solutions**. Implemented **micro-frontend** architecture (React + Module Federation). Backends in **Golang/Python**; **Rust** smart contracts. Wallet integrations (**Keplr/Leap/MetaMask**). Front-end chain access via **CosmJS** and **ethers.js**. Also worked on an **AI-agent quiz betting platform** (FastAPI + Next.js PWA) and a **Telegram mini app** (Justx).
+
+### Actalink — Fullstack Web3 Developer
+*Context:* Actalink builds **programmable crypto/stablecoin payments** for B2B (AA-style flows like deposits, payroll, subscriptions/invoices).  
+*Work (from resume):* Led **web3 dApp frontend** and landing page with **MetaMask Snaps** for portfolio rebalancing & programmable payments. Contributed to **ERC-4337** infra (**bundler, paymaster**). Stack: **Next.js, Zustand, TailwindCSS, Ethers.js, NestJS, TypeScript**.
+
+### Dextr Exchange — Contributor
+Designed **Solidity** contracts (Foundry), integrated **Chainlink oracles** to minimize **LVR**. Worked in **NodeJS/Kafka/Rust/Docker** microservices around the DEX.
+
 
 ## Open Source and Personal
 - **AI Learning Aid** – real-time study assistant (Next.js, Supabase).  
