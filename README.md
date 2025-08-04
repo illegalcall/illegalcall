@@ -25,7 +25,6 @@
   *Notes:* NDA. Sharing high-level designs only.
 
 ## Open Source and Personal
-- **FinSage** – AI investment coach (Next.js on GCP with Docker).  
 - **AI Learning Aid** – real-time study assistant (Next.js, Supabase).  
 > See pinned repos for code and short write-ups.
 
