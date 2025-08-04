@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
-<h3 align="center">Full-Stack & Web3 Engineer · Rust/Go/TypeScript · Next.js on GCP/AWS</h3>
+<h3 align="center">Full-Stack & Web3 Engineer · Rust/Go/TypeScript · Next.js on AWS/GCP</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140" alt="typing">
@@ -11,7 +11,7 @@
 - 🔗 Web3: smart contracts and infra on **Ethereum, Cosmos, Solana**.
 - ☁️ Deployments on **GCP/AWS** with Docker and CI/CD.
 
-> I ship simple, measurable solutions and iterate with data.
+> I ship simple, measurable solutions and optimize once there’s data.
 
 ## Selected Professional Work
 - **Comdex — Web3 Integrations and Tooling**  
