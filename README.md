@@ -1,69 +1,61 @@
-<h1 align="center">Hi, I'm Dhruv! 👋</h1>
-<h3 align="center">Fullstack Developer </h3>
+<h1 align="center">Hi, I'm Dhruv 👋</h1>
+<h3 align="center">Full-Stack & Web3 Engineer · Rust/Go/TypeScript · Next.js on GCP/AWS</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
-
-  
-  
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140" alt="typing">
 </p>
 
----
+## About
+- 🎓 Computer Science graduate with **4.5+ years** building production systems.
+- 🧱 I design fast, reliable backends and usable frontends.
+- 🔗 Web3: smart contracts and infra on **Ethereum, Cosmos, Solana**.
+- ☁️ Deployments on **GCP/AWS** with Docker and CI/CD.
 
-### About Me
+> I ship simple, measurable solutions and iterate with data.
 
-- 🎓 **Computer Science Graduate** – Turned my love for tech into a career!
-- 💼 **4.5+ years** of experience fighting bugs and building cool stuff.
-- 🚀 I build fast, user-friendly web apps with **React** and **Next.js**.
-- 🔗 Also working on blockchain projects, making crypto and smart contracts fun.
+## Selected Professional Work
+- **Comdex — Web3 Integrations and Tooling**  
+  *Role:* Backend/Rust • *Stack:* Rust, TypeScript, Postgres, Redis, Docker  
+  *Scope:* Indexing pipelines, API services, wallet and on-chain integrations, reliability and monitoring.  
+  *Notes:* Work delivered in private repos. High-level architecture and outcomes available on request.
 
----
+- **Actalink — Platform Engineering**  
+  *Role:* Full-stack • *Stack:* Go/TypeScript, Next.js, GCP (Cloud Run, Pub/Sub), Postgres  
+  *Scope:* Service design, rate limiting, observability, developer experience.  
+  *Notes:* NDA. Sharing high-level designs only.
 
-### 🛠 My Tech Toolbox
+## Open Source and Personal
+- **FinSage** – AI investment coach (Next.js on GCP with Docker).  
+- **AI Learning Aid** – real-time study assistant (Next.js, Supabase).  
+> See pinned repos for code and short write-ups.
 
-#### **Frontend**
-- **React:** Making UIs interactive, smooth, and fun.
-- **Next.js:** Because nobody likes slow websites.
-- **Tailwind CSS:** Writing CSS without the headache.
+## Tech Toolbox
+**Primary:** Rust, Go, TypeScript • Node.js, Next.js • Postgres, Redis  
+**Also:** Python, Solidity • Kafka • Docker, Kubernetes • GCP, AWS • Linux  
+**Patterns:** REST/gRPC, caching, background jobs, observability, CQRS when needed
 
-#### **Backend**
-- **Languages:** JavaScript/TypeScript, Python, Go, Rust – depends on my mood.
-- **Frameworks:** Node.js & FastAPI – keeping things smooth and simple.
+## In Progress / Roadmap
+- **Idempotency Service** `status: design`  
+  *Goal:* Request ledger with strong dedupe semantics and SDKs (Rust and Node).  
+  *Next:* Minimal API (create/check key), Postgres schema, retries and backoff, metrics.
 
-#### **Blockchain**
-- **Smart Contracts:** Writing Solidity so money moves on its own.
-- **Ecosystems:** Cosmos, Ethereum, and Solana – decentralization at its finest.
+- **Realtime Chess (Standard, 960, Kung-fu)** `status: planning`  
+  *Goal:* Real-time engine with ratings and variants. Optional on-chain modules.  
+  *Next:* Matchmaking service, cooldown logic, Redis pub/sub, web demo.  
+  *Note:* Not implemented yet. Looking for collaborators.
 
-#### **Other Tools**
-- **Databases:** PostgreSQL, MongoDB, Redis.
-- **DevOps:** Docker, Kubernetes, AWS, Linux.
+## Now / Open To
+- Building AI x FinTech, real-time systems, and web3 infra  
+- **Roles:** Backend, Rust, Full-stack  
+- Collaborations and open-source contributions
 
----
-
-### 🚀 What I'm Working On
-
-- **Web Apps:** Building simple, easy-to-use websites with React and Next.js.
-- **Blockchain Projects:** Creating basic modules for decentralized apps.
-- **Fullstack Projects:** Connecting user-friendly frontends with strong backends.
-
-> "I write code that gets the job done while keeping it simple and fun!"
-
----
-
-### 📊 GitHub Activity
-> ⚠️ **Note:** My GitHub may not show much activity because *I write code that makes money!* 💰
+## GitHub Activity
+> Some work lives in private or organization repos, so public activity may be lower than actual output.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=illegalcall&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=illegalcall&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
 </p>
 
----
-
-### 📬 Let's Connect!
-
+## Contact
 - **LinkedIn:** [d3v-dhruv](https://www.linkedin.com/in/d3v-dhruv/)
 - **Email:** [d3v.dhruv@gmail.com](mailto:d3v.dhruv@gmail.com)
- 
-<p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100">
-</p>
