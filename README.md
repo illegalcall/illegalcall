@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
 <h3 align="center">Full-Stack & Web3 Engineer · Rust/Go/TypeScript · Next.js on AWS/GCP</h3>
-<!--
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140" alt="typing">
-</p>
--->
+
 ## About
 - 🎓 Computer Science graduate with **4.5+ years** building production systems.
 - 🧱 I design fast, reliable backends and usable frontends.
