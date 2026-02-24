@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
-<h3 align="center">Full-Stack & Web3 Engineer · Rust/Go/TypeScript · Next.js on AWS/GCP</h3>
+<h3 align="center">Fullstack AI & Web3 Engineer · Rust/Go/TypeScript</h3>
 
 ## About
 - 🎓 Computer Science graduate with **4.5+ years** building production systems.
+- 🤖 AI: neuro-symbolic reasoning, DSLs, and scalable LLM infrastructure (**CoreThink.ai**).
 - 🧱 I design fast, reliable backends and usable frontends.
 - 🔗 Web3: smart contracts and infra on **Ethereum, Cosmos, Solana**.
 - ☁️ Deployments on **GCP/AWS** with Docker and CI/CD.
@@ -10,6 +11,17 @@
 > I ship simple, measurable solutions and optimize once there’s data.
 
 ## Selected Professional Work
+
+### CoreThink AI — Fullstack AI Engineer
+*[CoreThink.ai](https://corethink.ai/) — neuro-symbolic reasoning layer for LLMs.*
+
+- Designed and implemented a **Domain-Specific Language (DSL)** for constraint-driven model execution, improving reasoning performance and reducing hallucination
+- Architecting infrastructure handling **100M+ daily token usage** across production workloads
+- Built **[ChadCode](https://chadcode.dev/)** — a symbolic-reasoning coding agent powered by CoreThink's neuro-symbolic models
+  - [**VS Code Extension**](https://marketplace.visualstudio.com/items?itemName=Chadcode.chadcode) — AI coding assistant with Architect, Coder, and Debugger modes, MCP server support, and browser automation
+  - [**CLI / TUI**](https://www.npmjs.com/package/chad-code) — terminal-based agent (`npm i -g chad-code`)
+- Focused on improving coding-agent quality, latency, and cost on LiveCodeBench-style tasks via constrained reasoning and planning
+- Core capabilities: neuro-symbolic reasoning, long-horizon planning, constraint-first logic, verifiable output with structured traces
 
 ### Comdex — Fullstack Blockchain Developer
 *Context:* Comdex is a **Cosmos-SDK L1 with CosmWasm**, hosting apps like **cSwap (AMM)** and **Harbor (CMST stablecoin)**
@@ -23,9 +35,19 @@
 Designed **Solidity** contracts (Foundry), integrated **Chainlink oracles** to minimize **LVR**. Worked in **NodeJS/Kafka/Rust/Docker** microservices around the DEX.
 
 
-## Open Source and Personal
-- **AI Learning Aid** – real-time study assistant (Next.js, Supabase).  
-> See pinned repos for code and short write-ups.
+## Open-Source Contributions
+
+### [Rig](https://github.com/0xPlaygrounds/rig) — Rust LLM Agent Framework
+Added optional model overrides and LLM-based skills for improved agent ergonomics.
+
+### [Agave](https://github.com/anza-xyz/agave) — Solana Validator Client
+Contributed performance tuning, ABI compatibility, feature flags, and test migrations across the validator stack.
+
+### [Noir](https://github.com/noir-lang/noir) — ZK Proof DSL
+Improved compiler errors and fixed-size array methods.
+
+### [Solana Kit](https://github.com/anza-xyz/kit) — Official Solana JS SDK
+Fixed wallet account context provider behavior.
 
 ## Tech Toolbox
 **Primary:** Rust, Go, TypeScript • Node.js, Next.js • Postgres, Redis  
