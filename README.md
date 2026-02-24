@@ -4,11 +4,8 @@
 ## About
 - 🎓 Computer Science graduate with **4.5+ years** building production systems.
 - 🤖 AI: neuro-symbolic reasoning, DSLs, and scalable LLM infrastructure (**CoreThink.ai**).
-- 🧱 I design fast, reliable backends and usable frontends.
-- 🔗 Web3: smart contracts and infra on **Ethereum, Cosmos, Solana**.
-- ☁️ Deployments on **GCP/AWS** with Docker and CI/CD.
-
-> I ship simple, measurable solutions and optimize once there’s data.
+- 🧱 Systems & Infra: Designing fast, reliable backends (Rust/Go/Node.js) and modern frontends (Next.js/React/TypeScript) deployed on GCP/AWS (Docker/CI).
+- 🔗 Web3 & Blockchain: Smart contracts, validator infra, and dApps across **Ethereum, Cosmos, Solana**.
 
 ## Selected Professional Work
 
@@ -24,15 +21,25 @@
 - Core capabilities: neuro-symbolic reasoning, long-horizon planning, constraint-first logic, verifiable output with structured traces
 
 ### Comdex — Fullstack Blockchain Developer
-*Context:* Comdex is a **Cosmos-SDK L1 with CosmWasm**, hosting apps like **cSwap (AMM)** and **Harbor (CMST stablecoin)**
-*Work (from resume):* Built **Cosmos-ecosystem blockchain solutions**. Implemented **micro-frontend** architecture (React + Module Federation). Backends in **Golang/Python**; **Rust** smart contracts. Wallet integrations (**Keplr/Leap/MetaMask**). Front-end chain access via **CosmJS** and **ethers.js**. Also worked on an **AI-agent quiz betting platform** (FastAPI + Next.js PWA) and a **Telegram mini app** (Justx).
+*Comdex is a Cosmos-SDK Layer 1 blockchain hosting DeFi applications like cSwap (AMM) and Harbor (CMST stablecoin).*
+
+- Designed and built **Rust** smart contracts (CosmWasm) and high-performance backends in **Go** and **Python**
+- Architected a **micro-frontend** ecosystem (React, Module Federation) seamlessly integrating Keplr, Leap, and MetaMask wallets
+- Integrated cross-chain frontend data access via **CosmJS** and **Ethers.js**
+- Developed an **AI-agent quiz betting platform** (FastAPI, Next.js PWA) and the Justx **Telegram mini-app**
 
 ### Actalink — Fullstack Web3 Developer
-*Context:* Actalink builds **programmable crypto/stablecoin payments** for B2B (AA-style flows like deposits, payroll, subscriptions/invoices).  
-*Work (from resume):* Led **web3 dApp frontend** and landing page with **MetaMask Snaps** for portfolio rebalancing & programmable payments. Contributed to **ERC-4337** infra (**bundler, paymaster**). Stack: **Next.js, Zustand, TailwindCSS, Ethers.js, NestJS, TypeScript**.
+*Actalink builds B2B infrastructure for programmable crypto/stablecoin payments, focusing on Account Abstraction (AA) flows like payroll and subscriptions.*
+
+- Led the technical delivery of the **Web3 dApp frontend** and landing page
+- Implemented **MetaMask Snaps** to enable automated portfolio rebalancing and programmable payment flows
+- Contributed to core **ERC-4337 (Account Abstraction)** infrastructure, including bundler and paymaster integrations
+- Stack: **Next.js, Zustand, TailwindCSS, Ethers.js, NestJS, TypeScript**
 
 ### Dextr Exchange — Contributor
-Designed **Solidity** contracts (Foundry), integrated **Chainlink oracles** to minimize **LVR**. Worked in **NodeJS/Kafka/Rust/Docker** microservices around the DEX.
+- Designed and tested complex **Solidity** contracts using Foundry
+- Integrated **Chainlink oracles** to minimize Loss-Versus-Rebalancing (LVR) for liquidity providers
+- Contributed to backend microservices powering the decentralized exchange using **Node.js, Kafka, Rust, and Docker**
 
 
 ## Open-Source Contributions
@@ -50,9 +57,10 @@ Improved compiler errors and fixed-size array methods.
 Fixed wallet account context provider behavior.
 
 ## Tech Toolbox
-**Primary:** Rust, Go, TypeScript • Node.js, Next.js • Postgres, Redis  
-**Also:** Python, Solidity • Kafka • Docker, Kubernetes • GCP, AWS • Linux  
-**Patterns:** REST/gRPC, caching, background jobs, observability, CQRS when needed
+**Primary:** Rust, Python, Go, TypeScript • Node.js, Next.js • Postgres, Redis
+**AI & Data:** LLMs, RAG, PyTorch, LangChain, Pinecone, vLLM
+**Also:** Solidity • Kafka • Docker, Kubernetes • GCP, AWS • Linux
+**Patterns:** REST/gRPC, caching, CQRS, neuro-symbolic reasoning
 
 ## In Progress / Roadmap
 - **Idempotency Service** `status: design`  
@@ -66,15 +74,12 @@ Fixed wallet account context provider behavior.
 
 ## Now / Open To
 - Building AI x FinTech, real-time systems, and web3 infra  
-- **Roles:** Backend, Rust, Full-stack  
+- **Roles:** AI Engineer, Systems Engineer, Rust/Backend  
 - Collaborations and open-source contributions
 
 ## GitHub Activity
 > Some work lives in private or organization repos, so public activity may be lower than actual output.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=illegalcall&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
-</p>
 
 ## Contact
 - **LinkedIn:** [d3v-dhruv](https://www.linkedin.com/in/d3v-dhruv/)
