@@ -15,7 +15,8 @@
 Merged: [#1374](https://github.com/0xPlaygrounds/rig/pull/1374) optional model override to `CompletionRequest`; [#1384](https://github.com/0xPlaygrounds/rig/pull/1384) LLM-based skills for better UX.
 
 ### [Agave](https://github.com/anza-xyz/agave) — Solana Validator Client
-Merged: [#10462](https://github.com/anza-xyz/agave/pull/10462) allow `ip-echo-server` to run with 1 thread. Approved: [#10463](https://github.com/anza-xyz/agave/pull/10463) preserve gossip wire ABI compatibility; [#10471](https://github.com/anza-xyz/agave/pull/10471) add feature flags to `solana-account-decoder`; [#10388](https://github.com/anza-xyz/agave/pull/10388) increase FD limits for warp-slot operations.
+Merged: [#10462](https://github.com/anza-xyz/agave/pull/10462) allow `ip-echo-server` to run with 1 thread. 
+Approved: [#10463](https://github.com/anza-xyz/agave/pull/10463) preserve gossip wire ABI compatibility; [#10471](https://github.com/anza-xyz/agave/pull/10471) add feature flags to `solana-account-decoder`; [#10388](https://github.com/anza-xyz/agave/pull/10388) increase FD limits for warp-slot operations.
 
 ### [Noir](https://github.com/noir-lang/noir) — ZK Proof DSL
 Merged: [#11557](https://github.com/noir-lang/noir/pull/11557) improve error for struct literal in `if` condition. Approved: [#11560](https://github.com/noir-lang/noir/pull/11560) add `subarray` for fixed-size arrays.
@@ -56,16 +57,6 @@ Merged: [#1327](https://github.com/anza-xyz/kit/pull/1327) use `SelectedWalletAc
 **AI & Data:** LLMs, RAG, PyTorch, LangChain, Pinecone, vLLM
 **Also:** Solidity • Kafka • Docker, Kubernetes • GCP, AWS • Linux
 **Patterns:** REST/gRPC, caching, CQRS, neuro-symbolic reasoning
-
-## In Progress / Roadmap
-- **Idempotency Service** `status: design`  
-  *Goal:* Request ledger with strong dedupe semantics and SDKs (Rust and Node).  
-  *Next:* Minimal API (create/check key), Postgres schema, retries and backoff, metrics.
-
-- **Realtime Chess (Standard, 960, Kung-fu)** `status: planning`  
-  *Goal:* Real-time engine with ratings and variants. Optional on-chain modules.  
-  *Next:* Matchmaking service, cooldown logic, Redis pub/sub, web demo.  
-  *Note:* Not implemented yet. Looking for collaborators.
 
 ## Now / Open To
 - Building AI x FinTech, real-time systems, and web3 infra  
