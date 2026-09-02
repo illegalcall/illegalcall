@@ -9,7 +9,7 @@
 
 ## Open-Source Contributions
 
-*Recent work (last 30 days).*
+### [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) Maintainer
 
 ### [Rig](https://github.com/0xPlaygrounds/rig) — Rust LLM Agent Framework
 Merged: [#1374](https://github.com/0xPlaygrounds/rig/pull/1374) optional model override to `CompletionRequest`; [#1384](https://github.com/0xPlaygrounds/rig/pull/1384) LLM-based skills for better UX.
