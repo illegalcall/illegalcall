@@ -3,9 +3,9 @@
 
 ## About
 - 🎓 Computer Science graduate with **4.5+ years** building production systems.
-- 🤖 AI: neuro-symbolic reasoning, DSLs, and scalable LLM infrastructure (**CoreThink.ai**).
+- 🤖 AI: neuro-symbolic reasoning, DSLs, and scalable LLM infrastructure.
 - 🧱 Systems & Infra: Designing fast, reliable backends (Rust/Go/Node.js) and modern frontends (Next.js/React/TypeScript) deployed on GCP/AWS (Docker/CI).
-- 🔗 Web3 & Blockchain: Smart contracts, validator infra, and dApps across **Ethereum, Cosmos, Solana**.
+- 🔗 Web3 & Blockchain: Smart contracts, validator infra, and dApps across **Polkadot, Ethereum, Cosmos, Solana**.
 
 ## Open-Source Contributions
 
